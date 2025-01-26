@@ -2,7 +2,7 @@
   "name": "crystalclear",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://crystal-clear-site-39n8kqy0q-sivas-projects-18c6c847.vercel.app/",
+  "homepage": ".",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
